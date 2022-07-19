@@ -7,12 +7,18 @@ ingest the data into the API. Postman was used for testing. Kafka, Spark and Mon
 
 # Getting started
 The data was downloaded and transformed into the JSON data frame format using some python functions on transformer.py folder, and data is read into an output.txt file.
+
 # Api Ingest
 A root API (hello world) was first created to test if the API actually work and  Get and Post to put the data into the invoice item part.
+
 # Testing
 Postman was used for testing the API. Data was written into postman and request was sent. response 201 gotton means API is working.
 
 
 ![Capture](https://user-images.githubusercontent.com/41475769/179740551-29cac2b6-1c7b-4141-8743-9dbabe5d1acd.PNG)
+
+# starting up kafka
+A docker-compose file for kafka was created and run in the docker network. 
+
 
 
