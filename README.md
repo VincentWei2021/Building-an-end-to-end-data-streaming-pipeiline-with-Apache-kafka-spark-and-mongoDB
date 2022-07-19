@@ -31,7 +31,9 @@ Jupyter notebook was used to stream data from kafka to spark
 the spark session was used to load data and postman was also used to test the API.
 
 # Setting up MongoDB
-A docker-compose file that combines Kafka, Spark and MongoDB was created to run on a single network.
+A docker-compose file that combines Kafka, Spark and MongoDB was created to run on a single network, to send each message to MongoDB. MongoDB was choosen because it is the best and most used when working with Document stores (JSON documents).
+
+
 
 
 
