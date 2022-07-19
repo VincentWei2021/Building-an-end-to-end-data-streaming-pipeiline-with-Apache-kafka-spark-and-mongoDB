@@ -27,8 +27,10 @@ A dockerfile and requirement.txt file was created to build the image API inside 
 # Setting up Apache Spark for connecting to Kafka
 A docker-compose file that combines Kafka and Spark (with jupyter notebook interface) was created to run in a single network.
 Jupyter notebook was used to stream data from kafka to spark
-
 ![Capture](https://user-images.githubusercontent.com/41475769/179778470-56cff29e-58ac-4561-95bb-b9a8c7a89ded.PNG)
+the spark session was used to load data and postman was also used to test the API.
+
+
 
 
 
