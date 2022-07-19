@@ -30,6 +30,9 @@ Jupyter notebook was used to stream data from kafka to spark
 ![Capture](https://user-images.githubusercontent.com/41475769/179778470-56cff29e-58ac-4561-95bb-b9a8c7a89ded.PNG)
 the spark session was used to load data and postman was also used to test the API.
 
+# Setting up MongoDB
+A docker-compose file that combines Kafka, Spark and MongoDB was created to run on a single network.
+
 
 
 
