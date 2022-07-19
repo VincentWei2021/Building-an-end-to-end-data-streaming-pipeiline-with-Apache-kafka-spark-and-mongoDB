@@ -18,7 +18,16 @@ Postman was used for testing the API. Data was written into postman and request 
 ![Capture](https://user-images.githubusercontent.com/41475769/179740551-29cac2b6-1c7b-4141-8743-9dbabe5d1acd.PNG)
 
 # starting up kafka
-A docker-compose file for kafka was created and run in the docker network. 
+A docker-compose file for kafka was created and run in the docker network. Kafka producer, consumer and local injestion topics was created and enabled.
+kafka producer was used to enable the topics and tested with postman where consumer received the data.
+
+# Ingesting and deploying API into docker
+A dockerfile and requirement.txt file was created to build the image API inside docker enviroment. The  Local consumer topic was sterted, request was sent to postman again, the invoice data was sent and wirking successfully.
+
+# 
+
+
+
 
 
 
