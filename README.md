@@ -25,6 +25,11 @@ Postman was used for testing the API. Data was written into postman and request 
 A docker-compose file for kafka was created and run in the docker network. Kafka producer, consumer and local injestion topics was created and enabled.
 kafka producer was used to enable the topics and tested with postman where consumer received the data.
 ![ingestion topic 1](https://user-images.githubusercontent.com/41475769/181745863-bb98e1a9-4ad8-4468-a41e-793aee17294c.PNG)
+kafka consumer
+![kafka created topic](https://user-images.githubusercontent.com/41475769/181747945-8bb4d533-086e-47e0-925c-88922c132963.PNG)
+testing kafka with postman
+![kafka postman](https://user-images.githubusercontent.com/41475769/181748148-d27f3d13-124f-479c-ada0-135d339554ae.PNG)
+
 
 
 # Ingesting and deploying API in docker container
