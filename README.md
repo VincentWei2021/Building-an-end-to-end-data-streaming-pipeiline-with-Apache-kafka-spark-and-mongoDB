@@ -9,7 +9,7 @@ ingest the data into the API. Postman was used for testing. Kafka, Spark and Mon
 The data was downloaded and transformed into the JSON data frame format using some python functions on transformer.py folder, and data is read into an output.txt file.
 
 # Api Ingest
-A root API (hello world) was first created to test if the API actually work and  Get and Post to put the data into the invoice item part.
+Two APIs were created. A root API (hello world) was first created to test if the API actually work,  Get and Post to put the data into the invoice item part.
 
 # Testing
 Postman was used for testing the API. Data was written into postman and request was sent. response 201 gotton means API is working.
