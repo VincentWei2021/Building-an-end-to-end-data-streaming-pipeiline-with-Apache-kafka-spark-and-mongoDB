@@ -10,6 +10,10 @@ The data was downloaded and transformed into the JSON data frame format using so
 
 # Api Ingest
 Two APIs were created. A root API (hello world) was first created to test if the API actually work,  Get and Post to put the data into the invoice item part.
+![code img](https://user-images.githubusercontent.com/41475769/181742396-1a740e7c-754d-4a13-9109-420f3b384575.PNG)
+![hello img](https://user-images.githubusercontent.com/41475769/181742437-6359a6ea-5444-4afd-81bc-d5bc2dbb1f8e.PNG)
+
+
 
 # Testing
 Postman was used for testing the API. Data was written into postman and request was sent. response 201 gotton means API is working.
