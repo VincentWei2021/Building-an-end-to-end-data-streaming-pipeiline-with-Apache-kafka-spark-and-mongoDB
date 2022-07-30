@@ -37,6 +37,8 @@ A dockerfile and requirement.txt file was created to build the image API inside 
 testing api-ingest with postman
 ![api-ingest img2](https://user-images.githubusercontent.com/41475769/181863994-30c7c4d8-ed94-4aff-850f-10c1bda98fbd.PNG)
 ![api-ingest 3](https://user-images.githubusercontent.com/41475769/181863974-47489fae-4e2f-4bf2-bfcd-20082341357d.PNG)
+![api-ingest4](https://user-images.githubusercontent.com/41475769/181864201-1ab426a6-2e7a-41c6-bd21-37aceba3d0ec.PNG)
+
 
 
 # Setting up Apache Spark for connecting to Kafka (Apache Spark Config)
