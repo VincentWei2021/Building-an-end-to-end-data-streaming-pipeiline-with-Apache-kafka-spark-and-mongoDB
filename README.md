@@ -34,6 +34,10 @@ testing kafka with postman
 
 # Ingesting and deploying API in docker container
 A dockerfile and requirement.txt file was created to build the image API inside docker enviroment. The  Local consumer topic was sterted, request was sent to postman again, the invoice data was sent and wirking successfully.
+testing api-ingest with postman
+![api-ingest 3](https://user-images.githubusercontent.com/41475769/181863974-47489fae-4e2f-4bf2-bfcd-20082341357d.PNG)
+![api-ingest img2](https://user-images.githubusercontent.com/41475769/181863994-30c7c4d8-ed94-4aff-850f-10c1bda98fbd.PNG)
+
 
 # Setting up Apache Spark for connecting to Kafka
 A docker-compose file that combines Kafka and Spark (with jupyter notebook interface) was created to run in a single network.
